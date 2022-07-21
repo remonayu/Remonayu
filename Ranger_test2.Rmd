@@ -11,4 +11,35 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-hELLO hELLO hELLO 
+###Intro:
+
+We see the Metaverse as an inevitable technological revolution in the future. Just as the internet revolutionized communication as we know it today, professionals on the subject expect the Metaverse to do the same. Future MBAn students are more than likely to experience the evolution of this concept and even start utilizing it in their classrooms and workplaces.
+We envision that our project is going to be a handout on how Metaverse is going to impact each area of our day-to-day lives, especially the transformation from 2D interaction (Zoom/FaceTime) to 3D interaction (metaverse). We are going to start with the principles that lead to more efficient teamwork in 2D, followed by the technological innovation that Metaverse could bring to it, such as tracking eye contact, body language, facial micro-expression, and the elimination of physical distance in 2D interaction. This would result in a more natural and psychologically safe environment than common video call platforms, leading to a more efficient communication and teamwork experience. Under those innovation points, we would include detailed discussions about teamwork in different aspects of our lives where interaction happens, such as Work, Study, Business, Medicine, Social Media, and Traveling. 
+
+
+###About Us:
+
+Pink Ranger (Jennifer Feng)
+
+I was born in Shanghai, China, on May 3rd, 2000. In 2014, I went to a boarding school in Birmingham, AL.
+In May 2022, I graduated from William and Mary with a BBA in Finance and a minor in Economics.
+Right now I am starting the MBAn program (Master of Business Analytics) at University of Michigan Ann Arbor. On a less serious note, I love painting and baking. I love the feeling of oil paint on canvas, and the rich smell of baked goods that floods the kitchen when I open the oven door. 
+
+
+Red Ranger (Remona Yu): Hello, My name is Liyang Yu (Remona). I am from Dalian, China, a beautiful small sea port city in the Northeast part of China. This is my 8th year in the United States. I am a typical ENFP, I love to communicate, love to travel, and love all the possible new surprises that occur in life.
+
+Blue Ranger (Runze huang)
+I am from Dalian, China. I developed a huge interest in cooking since I went to college. I love making Chinese and French cuisine, and my signature dish is Seared Duck Breast with Orange Sauce. Besides enjoying delicious food, The cooking experience is a great time for me to be with myself and reflect on recent experience. Although I enjoy cooking by myself, I love inviting friends over to have lunch or dinner!
+
+Green Ranger (Mona : Hi, this is Mengna Wang, you can also call me Mona. I grew up in Suzhou, China, a place known for its many rivers and bridges. I came to the United States 5 years ago, and went to high school and undergraduate at upstate NY. I always wanted to explore new places in the United States, not just for travel but to actually stay and experience everything there, because I stayed in NY for so long. I am super happy about the opportunity to study at University of Michigan, a completely different place than NY, which is kind of a dream come true opportunity hahaha, and I love it here a lot so far. My goal for this year is to finish the program successfully and take the most from the program, have fun and make lots of friends!
+
+Black Ranger (Carlo De los Santos): 
+Saludos, I am Carlo De los Santos and I was born and raised in the beautiful piece of land called the Dominican Republic. Just recently, I graduated from the University of Michigan with a Bachelor’s degree in Business Administration. At the moment I decided to stay one more year in the best university in the world (Go Blue!) to complete a Master’s degree in Business Analytics at the Stephen M. Ross School of Business. I enjoy playing some sports like Ultimate Frisbee and Volleyball, listening to reggaeton and rock music, and traveling.
+
+###ToC:
+How work will look like in the Metaverse 
+How will the Metaverse create a better work-life balance
+How will the Metaverse create a more psychologically safe environment
+How simulations in the Metaverse can affect team decision-making, education, and an alternative form of communication through simulations
+The future 
+
